@@ -1,0 +1,18 @@
+body{
+    background-image: url(./disimg/signinbg.jpg);
+    background-size: cover;
+    background-repeat: none;
+}
+.container{
+    width:800px;
+    height: 900px;
+    padding:80px;
+    margin-top: 40px;
+}
+.form-control{
+   opacity:0.3;
+}
+img{
+    width:50px;
+    padding-top: 60px;
+}

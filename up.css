@@ -1,0 +1,22 @@
+body{
+    background-image: url(./disimg/up.jpg);
+    background-size: cover;
+    background-repeat: none;
+}
+.container{
+    width:800px;
+    height: 900px;
+    padding:80px;
+    margin-top: 40px;
+}
+.form-control{
+   opacity:0.48;
+}
+img{
+    width:50px;
+    padding-top: 60px;
+}
+.form-label{
+    font-weight:900;
+    color: rgb(255, 254, 254);
+}

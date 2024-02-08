@@ -1,0 +1,46 @@
+.h1{
+    color:black;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.bg{
+    background-image:url(./disimg/tvhe.jpg);
+    background-size:1900px 550px ;
+    height: 500px;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+   
+}
+
+.bg > h1 , .bg>h2 {
+    font-weight: 800;
+    color: rgb(255, 253, 253);
+    opacity: 0.9;
+
+}
+
+.bg>h1{
+    font-size: 12vw;
+}
+
+.bg>h2{
+    font-size: 2vw;
+    opacity: 1;
+    font-family: cursive;
+    color: rgb(39, 30, 30);
+}
+.bgm{
+    background-image:url(./disimg/blue.jpeg);
+    background-size:100% 100% ;
+    
+    background-repeat:no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-position: fixed;
+}

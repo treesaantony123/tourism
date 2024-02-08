@@ -1,0 +1,68 @@
+.h1{
+    color:black;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.bg{
+    background-image:url(./coc.jpg);
+    background-size:1900px 450px ;
+    height: 500px;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+   
+}
+
+.bg > h1 , .bg>h2 {
+    font-weight: 800;
+    color: white;
+    opacity: 0.9;
+
+}
+
+.bg>h1{
+    font-size: 15vw;
+}
+
+.bg>h2{
+    font-size: 2vw;
+    opacity: 0.76;
+    font-family: cursive;
+}
+.container{
+    background-image:url(./plane.jpeg);
+    background-size:100% 100%;
+    padding:3cap;
+
+}
+.cou{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.carousel{
+    display: flex;
+   
+   
+}
+.container
+{
+    width:100%;
+    height: 10%;
+}
+.bgdiv{
+    background-image:url(./disimg/alphe.jpg);
+    background-size:100% 100% ;
+    
+    background-repeat:no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-position: fixed;
+}
